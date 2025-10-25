@@ -4,5 +4,4 @@ services:
     runtime: docker
     plan: starter
     region: oregon
-    branch: freyr-service
     healthCheckPath: /health
